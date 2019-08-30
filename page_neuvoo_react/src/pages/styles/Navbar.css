@@ -1,0 +1,13 @@
+.Navbar_logo{
+    height: 90%;
+    width: 90%;
+}
+
+.Navbar_bg{
+    background-color: #fff;
+}
+
+.Navbar_text{
+    font-size:20px;
+    color:aquamarine;
+}

@@ -1,0 +1,23 @@
+.Navegacion_search{
+    font-size:120%;
+    border-radius: 10px;
+}
+
+.Navegacion{
+    width: 265px;
+    height:40px;
+    border-radius: 10px; 
+
+}
+
+.Navegacion_img{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
+
+.Navegacion_hr{
+    display: flex;
+}
